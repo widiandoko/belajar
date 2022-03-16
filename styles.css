@@ -1,0 +1,20 @@
+.bg {
+    background-color: salmon;
+}
+
+.warna {
+    color: red;
+}
+
+.border {
+    border: 2em;
+    border-color: black;
+}
+
+.padding {
+    padding: 1em;
+}
+
+.margin {
+    margin-top: 1em;
+}
